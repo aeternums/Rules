@@ -1,1 +1,4 @@
+# NAME: Mail
+HOST,imap-mail.outlook.com,Mail
+HOST,imap.gmail.com,Mail
 

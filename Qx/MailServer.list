@@ -3,10 +3,20 @@ HOST,imap-mail.outlook.com,Mail
 HOST,smtp-mail.outlook.com,Mail
 HOST,imap.gmail.com,Mail
 HOST,smtp.gmail.com,Mail
+HOST,outlook.office365.com,Mail
+HOST,smtp.office365.com,Mail
 
 IP-CIDR,117.143.14.205/32,Mail
 IP-CIDR,183.63.169.252/32,Mail
 IP-CIDR,142.251.170.108/32,Mail
-IP-CIDR,40.99.10.38/32,Mail
-IP-CIDR,40.99.9.102/32,Mail
-IP-CIDR,40.99.8.198/32,Mail
+IP-CIDR,13.107.6.152/31,Mail
+IP-CIDR,13.107.18.10/31,Mail
+IP-CIDR,13.107.128.0/22,Mail
+IP-CIDR,23.103.160.0/20,Mail
+IP-CIDR,40.96.0.0/13,Mail
+IP-CIDR,40.104.0.0/15,Mail
+IP-CIDR,52.96.0.0/14,Mail
+IP-CIDR,131.253.33.215/32,Mail
+IP-CIDR,23.103.160.0/20,Mail
+IP-CIDR,150.171.32.0/22,Mail
+IP-CIDR,204.79.197.215/32,Mail

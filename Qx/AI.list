@@ -27,4 +27,12 @@ HOST-SUFFIX,pplx.ai,AI
 HOST-KEYWORD,AI,AI
 IP-CIDR,24.199.123.28/32,AI
 IP-CIDR,64.23.132.171/32,AI
-IP-ASN,20473,AI
+HOST-SUFFIX,bard.google.com
+HOST-SUFFIX,bing.com
+HOST-SUFFIX,heypi.com
+HOST-SUFFIX,poe.com
+HOST-SUFFIX,notion-static.com
+HOST-SUFFIX,notion.com
+HOST-SUFFIX,notion.new
+HOST-SUFFIX,notion.site
+HOST-SUFFIX,notion.so

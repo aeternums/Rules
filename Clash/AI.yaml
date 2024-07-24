@@ -40,6 +40,8 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,heypi.com
   - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-KEYWORD,poecdn
+  - DOMAIN-SUFFIX,quora.com
   - DOMAIN-SUFFIX,notion-static.com
   - DOMAIN-SUFFIX,notion.com
   - DOMAIN-SUFFIX,notion.new

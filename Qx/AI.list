@@ -31,6 +31,8 @@ HOST-SUFFIX,bard.google.com
 HOST-SUFFIX,bing.com
 HOST-SUFFIX,heypi.com
 HOST-SUFFIX,poe.com
+HOST-KEYWORD,poe
+HOST-KEYWORD,poecdn
 HOST-SUFFIX,notion-static.com
 HOST-SUFFIX,notion.com
 HOST-SUFFIX,notion.new

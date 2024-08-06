@@ -36,7 +36,7 @@ DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-KEYWORD,instagram
 
-HOST,graph.facebook.com
+DOMAIN,graph.facebook.com
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,whatsapp.biz
 DOMAIN-SUFFIX,whatsapp.com

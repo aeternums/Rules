@@ -1,3 +1,4 @@
+# Mailserver
 DOMAIN,imap-mail.outlook.com,DIRECT
 DOMAIN,smtp-mail.outlook.com,DIRECT
 DOMAIN,imap.gmail.com,DIRECT
@@ -24,3 +25,8 @@ IP-CIDR,131.253.33.215/32,DIRECT
 IP-CIDR,23.103.160.0/20,DIRECT
 IP-CIDR,150.171.32.0/22,DIRECT
 IP-CIDR,204.79.197.215/32,DIRECT
+
+# IBKR
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,interactivebrokers.com.hk

@@ -20,3 +20,8 @@ IP-CIDR,131.253.33.215/32,Mail
 IP-CIDR,23.103.160.0/20,Mail
 IP-CIDR,150.171.32.0/22,Mail
 IP-CIDR,204.79.197.215/32,Mail
+
+# IBKR
+HOST-SUFFIX,ibkr.com
+HOST-SUFFIX,interactivebrokers.com
+HOST-SUFFIX,interactivebrokers.com.hk

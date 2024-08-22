@@ -47,3 +47,6 @@ payload:
   - DOMAIN-SUFFIX,notion.new
   - DOMAIN-SUFFIX,notion.site
   - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,ibkr.com
+  - DOMAIN-SUFFIX,interactivebrokers.com
+  - DOMAIN-SUFFIX,interactivebrokers.com.hk

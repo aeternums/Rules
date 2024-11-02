@@ -23,5 +23,6 @@ IP-CIDR,204.79.197.215/32,Direct
 
 # IBKR
 HOST-SUFFIX,ibkr.com,Direct
+HOST-SUFFIX,ibllc.com,Direct
 HOST-SUFFIX,interactivebrokers.com,Direct
 HOST-SUFFIX,interactivebrokers.com.hk,Direct
